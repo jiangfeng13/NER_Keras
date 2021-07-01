@@ -22,7 +22,7 @@ data from MSRA
 
 you can use yourself's  data, only need to change the code in  `  self_data `
 
-#HOW to use
+## Use
 
 `python run.py --mode=train `
 
